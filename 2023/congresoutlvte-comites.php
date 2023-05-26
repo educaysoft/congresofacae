@@ -21,8 +21,8 @@
   <p class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</p><br> 
 
 
-  <b>Decano de la FACI-UTLVTE</b><br>
-  <p class="nombre">Ing. Victor Lenin Montaño Roldan MSc.</p><br><br> 
+  <b>Decana de la FACAE-UTLVTE</b><br>
+  <p class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</p><br><br> 
 
 
 
@@ -41,39 +41,25 @@
 
     <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
-  <p class="nombre">Dr. Juan Tacoronte Morales, PhD.</p><br>
+  <p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</p><br>
 
-  <p class="nombre">Dra. Maribel Cuello Pérez, PhD,</p><br>
+  <p class="nombre">Dr. José Armando Estrada Hernández, PhD,</p><br>
 
-  <p class="nombre">Dr. Eduardo Rivas Tufiño, PhD.</p><br>
+  <p class="nombre">Dr. Yahilina Silveira Pérez, PhD.</p><br>
 
-  <p class="nombre">Dr. Lázaro Lima Cazorla, PhD,</p><br>
+  <p class="nombre">Dr. Rosario León Robaina, PhD,</p><br>
 
-  <p class="nombre">Dr. José Samprieto Saquicela, PhD,</p><br>
-  <p class="nombre">Ing. Joseph Cruel Siguenza, MSc.</p><br>
-  <p class="nombre">Ing. Stalin Francis Quinde, MSc.</p><br>
-  <p class="nombre">Lcda. Silvia Simisterra Masias, Mgs.</p><br>
+  <p class="nombre">Dr. Michael Tamayo, PhD,</p><br>
+  <p class="nombre">Dr. María Helena López Hernández, PhD.</p><br>
+  <p class="nombre">Dr. Luis Alberto Pérez Llody, PhD.</p><br>
+  <p class="nombre">Dr. Tibisay Limus, PhD.</p><br>
 
-  <p class="nombre">Ing. Guillermo Mosquera Quintero, MSc.</p><br>
-  <p class="nombre">Ing. Diego Hurtado Sotalin, MSc.</p><br>
-  <p class="nombre">Ing. Damián Pérez Moreira, MSc.</p><br>
-  <p class="nombre">Ing. Franklin Ochoa González, MSc.</p><br>
-  <p class="nombre">Ing. David Olmedo Ponce, MSc.</p><br>
-  <p class="nombre">Ing. Marcelo Reina Tello, Mgs.</p><br>
-  <p class="nombre">Ing. Baster Ly Estupiñan, Mgs.</p><br>
+  <p class="nombre">Dr. Alfonso Murgueitio Montenegro, PhD.</p><br>
+  <p class="nombre">Dra. Elizabeth Gobea Robinsón, PhD.</p><br>
+  <p class="nombre">Dr. Féliz Rosales Cortes, PhD.</p><br>
+  <p class="nombre">Dr. Pablo Vilela Mera, PhD.</p><br>
+  <p class="nombre">Dra. Marisol Alava Cedeño, MSc.</p><br>
 
-  <p class="nombre">Ing. Carla Bernal Villavicencio, MSc.</p><br>
-  <p class="nombre">Ing. Raúl Ulloa D' Sousa, MSc.</p><br>
-  <p class="nombre">Dra. Rugina Quiñonez, PhD.</p><br>
-  <p class="nombre">Ing. Rafael Bastidas Heredia, MSc.</p><br>
-  <p class="nombre">Ing. Hugo Pillajo Quijia, MSc.</p><br>
-  <p class="nombre">Ing. Lenin Montaño Roldan, MSc.</p><br>
-  <p class="nombre">Ing. Xavier Gracia Cervantes, MSc.</p><br>
-  <p class="nombre">Ing. Santiago Quintero Samaniego, MSc.</p><br>
-  <p class="nombre">Ing. Naycer Mina Gonzalez, MSc.</p><br>
-  <p class="nombre">Ing. Rómulo Jurado Calero, MSc.</p><br>
-  <p class="nombre">Ing. Nicomedes Ordoñez, MSc.</p><br>
-  <p class="nombre">Ing. Karen Simisterra, MSc.</p><br>
 
     <p  class="badge bg-danger text-wrap" >Internacionales</p>
 
